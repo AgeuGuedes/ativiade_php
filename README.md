@@ -11,6 +11,9 @@ No terminal, execute o comando composer install para baixar as dependências do 
 Inicie o servidor Apache e o MySQL no XAMPP ou em outra ferramenta semelhante.<br>
 No terminal, execute o comando php artisan migrate para executar as migrações do banco de dados.<br>
 Em seguida, execute o comando php artisan serve para iniciar o servidor da API.<br>
+<br>
+![image](https://github.com/AgeuGuedes/ativiade_php/assets/125320542/b66c5f62-4ee3-4f82-b03e-b11b50110acf)
+<br>
 
 No Postman:
 
